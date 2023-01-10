@@ -1,0 +1,24 @@
+{
+  "name": "@w7it/typescript-config",
+  "description": "W7IT typescript config",
+  "version": "0.0.0",
+  "keywords": [
+    "w7it",
+    "typescript-config"
+  ],
+  "license": "MIT",
+  "author": "Vlad Orlov <vlad@w7it.com>",
+  "homepage": "https://github.com/w7it/toolkit#readme",
+  "repository": "git@github.com:w7it/toolkit.git",
+  "bugs": {
+    "url": "https://github.com/w7it/toolkit/issues"
+  },
+  "files": [
+    "base.json",
+    "react-native.json"
+  ],
+  "main": "lib/typescript-config.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
